@@ -7,7 +7,6 @@ public class main {
 		System.out.print(test.test_print_("John"));
 		System.out.print("Adding a change to git again");
 		System.out.print("Adding a change to git again,final step");
-		System.out.print("Adding a change to git again,final step");
 	}
 
 }
