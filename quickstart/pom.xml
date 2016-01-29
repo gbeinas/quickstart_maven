@@ -22,4 +22,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>quickstart_maven</id>
+      <name>Quickstart_maven Releases</name>
+      <url>http://localhost:8081/repository/quickstart_maven/</url>
+    </repository>
+  </distributionManagement>
 </project>
